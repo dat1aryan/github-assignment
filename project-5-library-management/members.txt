@@ -1,0 +1,9 @@
+=== Registered Library Members ===
+[Member ID]  [Name]            [Department]       [Membership Type]
+M001         Aryan Sharma      Computer Science   Student
+M002         Pooja Mehta       Biotechnology      Student
+M003         Vikram Singh      Mechanical Engg    Student
+M004         Ananya Gupta      Computer Science   Student
+M005         Rahul Nair        Civil Engg         Student
+M006         Dr. Rajesh Kumar  Computer Science   Faculty
+M007         Simran Kaur       Management         Student

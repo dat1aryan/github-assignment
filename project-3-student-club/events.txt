@@ -1,0 +1,8 @@
+=== Upcoming & Past Events ===
+- Orientation Session 2026 (Completed)
+- Git & GitHub Bootcamp (In Progress)
+
+=== Proposed Events ===
+1. Annual Hackathon 2026 - 24-Hour Code Sprint (Nov 15, 2026)
+2. AI & Web3 Workshop Series (Dec 05, 2026)
+3. Open Source Contribution Day (Jan 20, 2027)

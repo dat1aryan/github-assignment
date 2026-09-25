@@ -1,0 +1,10 @@
+=== Library Catalog ===
+[Book ID]  [Title]                          [Author]               [Edition / Publisher]   [Status]
+B101       Introduction to Algorithms       Cormen et al.          4th Ed (MIT Press)      Available
+B102       Clean Code                       Robert C. Martin       1st Ed (Prentice Hall)  Available
+B103       Operating System Concepts        Silberschatz           10th Ed (Wiley)         Available
+B104       Design Patterns: GoF            Erich Gamma et al.     1st Ed (Addison-Wesley) Available
+B105       Artificial Intelligence         Russell & Norvig       4th Ed (Pearson)        Available
+B106       Computer Networks               Tanenbaum & Wetherall  5th Ed (Pearson)        Available
+B107       Database System Concepts        Korth & Sudarshan      7th Ed (McGraw-Hill)    Available
+B108       The Pragmatic Programmer        Hunt & Thomas          2nd Ed (Addison-Wesley) Available

@@ -1,0 +1,15 @@
+=== Expense Log 2026 ===
+[Date]       [Category]          [Amount]  [Description]
+--------------------------------------------------------------
+2026-09-01   Books & Education   Rs. 1200  Git & GitHub Reference Book
+2026-09-02   Utilities & Bills   Rs. 800   Broadband Internet Bill
+2026-09-03   Food & Dining       Rs. 250   Campus Cafeteria Lunch
+2026-09-05   Food & Dining       Rs. 180   Evening Coffee & Snacks
+2026-09-07   Food & Dining       Rs. 420   Weekend Dinner with Friends
+2026-09-10   Food & Dining       Rs. 150   Fresh Fruits & Groceries
+2026-09-12   Food & Dining       Rs. 300   Pizza Treat after Seminar
+2026-09-04   Travel & Transport  Rs. 120   Metro Card Recharge
+2026-09-06   Travel & Transport  Rs. 350   Taxi Fare to Tech Conference
+2026-09-08   Travel & Transport  Rs. 80    Bus Fare to City Center
+2026-09-11   Travel & Transport  Rs. 450   Intercity Train Ticket
+2026-09-13   Travel & Transport  Rs. 100   Auto Rickshaw Ride

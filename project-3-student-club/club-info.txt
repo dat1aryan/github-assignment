@@ -1,0 +1,10 @@
+=== Club Overview ===
+Club Name: Shoolini Tech Innovators Club
+Faculty Coordinator: Dr. Sharma
+Student Lead: Aryan
+Mission: To empower students by mastering full-stack web engineering, cloud computing, artificial intelligence projects, and open source innovation.
+
+=== Previous Club Activities ===
+- Linux Fundamentals Hands-on Lab (Aug 2026)
+- Competitive Programming Contest Round 1 (Sep 2026)
+- Web Development Crash Course (Oct 2026)

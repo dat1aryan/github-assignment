@@ -1,0 +1,11 @@
+=== Core Committee Members ===
+1. Aryan - President
+2. Sneha - Vice President
+3. Rohan - Technical Lead
+
+=== General Members ===
+4. Priya Sharma - Web Developer
+5. Amit Verma - Cloud Associate
+6. Neha Patel - UI/UX Designer
+7. Rahul Kapoor - App Developer
+8. Ananya Sen - Data Analyst

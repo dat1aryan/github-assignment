@@ -1,0 +1,8 @@
+=== Book Issue and Return Log ===
+[Issue ID]  [Book ID]  [Member ID]  [Issue Date]  [Due Date]    [Return Status]
+ISS-1001    B101       M001         2026-09-01    2026-09-30    Returned on Extension (No Fine, Condition: Excellent)
+ISS-1002    B102       M002         2026-09-02    2026-09-16    Issued
+ISS-1003    B103       M003         2026-09-05    2026-09-19    Issued
+ISS-1004    B104       M004         2026-09-08    2026-09-22    Returned
+ISS-1005    B105       M005         2026-09-10    2026-09-24    Issued
+ISS-1006    B106       M006         2026-09-12    2026-09-26    Returned

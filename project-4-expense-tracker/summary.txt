@@ -1,0 +1,5 @@
+=== Monthly Expense Summary: September 2026 ===
+Total Monthly Budget: Rs. 15,000
+Total Recorded Expenses: Rs. 5,100 (Final Audited Total: Rs. 3,100 Food & Travel + Rs. 2,000 Initial)
+Remaining Balance: Rs. 9,900
+Budget Health: Healthy (within safe spending limit)
